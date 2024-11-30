@@ -15,9 +15,9 @@ Python scripting,Selenium,Data Collection,Data Management using SQL,Streamlit
 
 TECHNOLOGY USED
 
-Python 3.9.I
+Python 
 
-MySQL 8.0
+MySQL
 
 Streamlit
 
