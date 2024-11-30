@@ -43,7 +43,7 @@ PACKAGES AND LIBRARIES
 
 pandas as pd
 
-mysql.connector
+pymysql.connect
 
 import time
 
