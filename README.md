@@ -33,7 +33,7 @@ Retrive the Bus Information:
 
 Store data in database:
 
-The collected bus details data was transformed into pandas dataframes. Before that, a new database and tables were created using the MySQL connector. With the help of MySQL, the data was inserted into the respective tables. The database could be accessed and managed in the MySQL environment.
+The collected bus details data was transformed into pandas dataframes. Before that, a new database and tables were created using the PYMYSQL connect. With the help of PyMySQL, the data was inserted into the respective tables. The database could be accessed and managed in the MySQL environment.
 
 web app - streamlit:
 
